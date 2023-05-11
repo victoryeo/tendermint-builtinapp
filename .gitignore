@@ -1,4 +1,2 @@
 /data
-go.sum
-go.mod
-example
+tendermint-builtinapp
